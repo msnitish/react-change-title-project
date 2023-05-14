@@ -1,6 +1,6 @@
 # react-change-title-project
 This is a react project which can teach basics of using the useState() hook. 
-
+![img1](public/react-proj-shot.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
